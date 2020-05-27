@@ -1,0 +1,17 @@
+Good morning  everyone . I am Mayank Kushwaha , b-tech student. today we are looking forward to talk with you about the decentralized technology  i.e. blockchain technology , and we have choosen this technology because of its extra ordinary features and it is also a emerging technology.so,without any delay  lets start our presentation.
+
+So what is blockkchain technology?
+In the simplest terms, Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization.  A blockchain is a distributed ledger that is completely open to any and everyone on the network. Once an information is stored on a blockchain, it is extremely difficult to change or alter it.,.
+
+Bigdata.
+The ideal Industry collects huge amounts of data from many different sources of the value chain. Such an enormous amount of information is really worthy .Big Data is facing three major issues, data collection, data trustworthiness and automated reliable data circulation.   A technology like blockchain can help to establish a common data sharing interface through which all the involved parties interact .
+
+
+The term IIoT refers to the use of traditional Internet of Things technologies.Therefore,Blockchain can help IIoT systems to perform decentralized transactions and information exchanges during the different processing stages within a trust framework.Blockchain-based applications allow for guaranteeing that the information published by a specific IIoT device is not forged or altered by malicious third parties.
+
+So what is cryptocurrency?
+	Cryptocurrency is an electronic money created with technology, controlling its creation and protecting transactions. Cryptocurrency is the combination of two words i.e. is crypto and currency .where Crypto- is short for “cryptography”, which is used for security and hiding information . Currency simply means “money currently in use".
+
+
+So this is  the architecture of our blockchain network. in which we have a peer to peer network. so it's a set of nodes.and  each node can talk to any other nodes and each node maintain its own copy of the blockchain. and   on the other hand we have clients. And he should be able  to interact with the network.. in order to send their transaction to the network. so the client have to do three things . first ,  to generate the public and private key . second, He should be able to do a transaction from user to any node of the network ,and transaction should contain the value of the transaction.  Third point ,client can  view the transaction available on any node on the network.
+
